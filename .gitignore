@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-local generated media
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+assets/images/*-chroma.png
+assets/images/*preview*.png
+assets/tmp/

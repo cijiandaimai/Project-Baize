@@ -1,1 +1,0 @@
-# Baize AI Desktop Pet
