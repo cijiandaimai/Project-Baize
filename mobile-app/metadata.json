@@ -1,0 +1,10 @@
+{
+  "name": "白泽AI桌面宠物",
+  "description": "上古大瑞兽白泽化身同龄AI学习伴侣，提供多模态屏幕感知、智能陪伴学习与进化系统的安卓PWA软件",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
